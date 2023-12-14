@@ -157,6 +157,18 @@ GitHub Copilot 的功能也是透過安裝擴充套件來實現的，你需要�
 
    非常方便的 YAML 與 JSON 轉換器！
 
+   可以利用 `YAML+JSON: Preview as YAML (from JSON. Opens in new file)` 指令，快速將 JSON 轉換成 YAML 格式。
+
+4. [Base64](https://marketplace.visualstudio.com/items?itemName=m4ns0ur.base64)
+
+   非常方便的 Base64 編碼/解碼工具！
+
+   ![Base64](images/base64-1.jpg)
+
+5. [JWT Debugger](https://marketplace.visualstudio.com/items?itemName=yokawasa.jwt-debugger)
+
+   好用的 JWT 偵錯工具，可以在 VS Code 裡面直接解析 JWT Token 的內容。
+
 ## 上課前的注意事項
 
 請注意！由於目前 OpenAI 用戶多達一億人，因此 OpenAI 會限制每個用戶 GPT-4 的使用次數：
