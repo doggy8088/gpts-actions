@@ -141,6 +141,8 @@ GitHub Copilot 的功能也是透過安裝擴充套件來實現的，你需要�
    }
    ```
 
+   > 你可以參考[我的 VS Code 設定](https://gist.github.com/doggy8088/62e3d786826867b39279fd10bc2fabfe)
+
 2. [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
 
    這個擴充套件會隨著 [OpenAPI (Swagger) Editor](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi) 自動安裝，不過有個 3 個設定大家可能要手動調整一下。
@@ -152,6 +154,8 @@ GitHub Copilot 的功能也是透過安裝擴充套件來實現的，你需要�
        "yaml.format.singleQuote": true
    }
    ```
+
+   > 你可以參考[我的 VS Code 設定](https://gist.github.com/doggy8088/62e3d786826867b39279fd10bc2fabfe)
 
 3. [YAML ❤️ JSON](https://marketplace.visualstudio.com/items?itemName=hilleer.yaml-plus-json)
 
